@@ -6,6 +6,10 @@ Url for the original Website is: http://www.speakforindiadelhi.com/speaker.php  
 Now since the website used IP address to track vote, I used Tor's Sock5 Proxies to get new IPs every time.
 Then used Selenium to automate the voting process.
 
+You can watch the video here:
+
+<a href="https://www.loom.com/share/84ec8b8889704ac290bdefab19c4aa34"> <p>19 April, 2020 - Loom Recording - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/84ec8b8889704ac290bdefab19c4aa34-with-play.gif"> </a>
+
 CAUTION: geckodriver should be latest and in windows PATH environment variable.
 
 It was fun project :smile:, learned a lot about python and OS interactions using OS and subprocess module.
