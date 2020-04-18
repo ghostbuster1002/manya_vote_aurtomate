@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Mar 2020 23:22:21 at http://www.speakforindiadelhi.com/speaker.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.speakforindiadelhi.com/speaker.php -O1 "C:\Users\kalra\Desktop\On Going Projects\Done\Manya Automate\Speak For india Website\Manya Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:23:23	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/index.html (from www.speakforindiadelhi.com/speaker.php)
+23:23:25	Warning: 	File not parsed, looks like binary: www.speakforindiadelhi.com/assets/fonts/glyphicons-halflings-regular.woff2
+23:23:25	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/fonts/font-fontello/fontello.eot (from www.speakforindiadelhi.com/assets/css/manual.css?v=1.26)
+23:23:25	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/fonts/font-fontello/fontello.woff (from www.speakforindiadelhi.com/assets/css/manual.css?v=1.26)
+23:23:25	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/fonts/font-fontello/fontello.ttf (from www.speakforindiadelhi.com/assets/css/manual.css?v=1.26)
+23:23:25	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/fonts/font-fontello/fontello.svg (from www.speakforindiadelhi.com/assets/css/manual.css?v=1.26)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/owlcarousel/owl.video.play.png (from www.speakforindiadelhi.com/assets/css/owlcarousel/owl.carousel.min.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.eot?42698837 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.woff2?42698837 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.woff?42698837 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.ttf?42698837 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.svg?42698837 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.eot?1401487 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello-embedded.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/assets/css/font/fontello.svg?1401487 (from www.speakforindiadelhi.com/assets/css/css-fontello/fontello-embedded.css)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://analytics.htmedia.in/analytics-js/htil-analytics.js)
+23:24:08	Error: 	"Not Found" (404) at link www.speakforindiadelhi.com/GET (from https://analytics.htmedia.in/analytics-js/htil-analytics.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 78 links scanned, 61 files written (4542880 bytes overall) [3755583 bytes received at 24074 bytes/sec], 1069040 bytes transferred using HTTP compression in 28 files, ratio 23%, 4.8 requests per connection
+(16 errors, 1 warnings, 0 messages)
