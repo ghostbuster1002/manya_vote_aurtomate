@@ -8,7 +8,7 @@ Then used Selenium to automate the voting process.
 
 You can watch the video here:
 
-<a href="https://www.loom.com/share/84ec8b8889704ac290bdefab19c4aa34"> <p>19 April, 2020 - Loom Recording - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/84ec8b8889704ac290bdefab19c4aa34-with-play.gif"> </a>
+<a href="https://www.loom.com/share/84ec8b8889704ac290bdefab19c4aa34"> <p>Speak For India Automated Voting - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/84ec8b8889704ac290bdefab19c4aa34-with-play.gif"> </a>
 
 CAUTION: geckodriver should be latest and in windows PATH environment variable.
 
