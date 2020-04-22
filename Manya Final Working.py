@@ -13,8 +13,8 @@ def settorprofile():
     return profile
 
 def runtor():
-    torexe=r'C:\Users\kalra\Desktop\Tor Browser\Browser\firefox.exe'
-    torhandle = subprocess.Popen([torexe,"/min"])
+    torexe=r'C:\Users\kalra\Desktop\Tor Browser\Browser\firefox.exe' #Add your Path to the TorBrowser Bundle
+    torhandle = subprocess.Popen(torexe)
     return torhandle
 
 def voteexec(profile):
